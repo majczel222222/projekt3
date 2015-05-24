@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Proponuje zaczac od wlaczenia przykladowego programu" << endl;
+	cout << "test" << endl;
 	system("pause");
 	return 0;
 }
